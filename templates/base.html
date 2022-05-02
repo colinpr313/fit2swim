@@ -1,0 +1,36 @@
+{% load static %}
+
+<html>
+<head>
+<script src="{% static 'main.js' %}"></script>
+<link rel="stylesheet" href="{% static 'main.css' %}"/>
+</head>
+<script>
+  if (getCookie('testcookie')==null) {
+    window.location.href = "/";
+    setCookie('testcookie', "testuser", 30);
+}
+</script>
+
+<title> Fit 2 Swim </title>
+  <body bgcolor="#52b5e3" text="white">
+    <center>
+      <h1> <p style="font-family:Impact"><font size="+5"><font color="white">Fit 2 Swim</p></h1>
+      <h4> <p style="font-family:Impact"><font size="+1">Find a friend, make a splash!</p></h1>
+      <img src="{% static 'fit2swim_logo.jpg' %}" alt="Image of logo" width="400" height="300">
+
+      <br>
+
+
+      {% block content %}
+      {% endblock %}
+      <footer>
+        <br>
+        <br>
+        <!-- <a href="{% url 'rides:index' %}" style="font-size: medium;"> Click here to search for a swimming partner.</a>
+        <br>
+        {#<a href="{% url 'rides:create' %}" style="font-size: medium;"> Click here to register to find a swimming partner.</a> -->
+        <br>
+    </center>
+  </body>
+</html>

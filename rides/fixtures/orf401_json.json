@@ -1,0 +1,339 @@
+[
+    {
+        "model": "rides.person", 
+        "pk": 0, 
+        "fields": {
+            "first_name": 0, 
+            "x-acceleration": -0.019168973985043438, 
+            "y-acceleration": 0.00862786444750699, 
+            "z-acceleration": -0.0002923120151866566, 
+            "x-gyroscope": -0.039171472075395286, 
+            "y-gyroscope": -0.0003839588554745371, 
+            "z-gyroscope": 0.007905141136143356
+            }
+        },
+    {
+        "model": "rides.person",
+        "pk": 1,
+        "fields": {
+            "first_name": 1,
+            "x-acceleration": 0.20256592281848976,
+            "y-acceleration": 0.05098724992651688, 
+            "z-acceleration": -0.001611406865872835, 
+            "x-gyroscope": 0.16191273860902966, 
+            "y-gyroscope": 0.6698873484458187, 
+            "z-gyroscope": 0.39982267696255197
+            }
+        }, 
+    {
+        "model": "rides.person",
+        "pk": 2,
+        "fields": {
+            "first_name": 2,
+            "x-acceleration": 0.0010062480966250102, 
+            "y-acceleration": -0.00018083578787553005,
+            "z-acceleration": 0.0041049520174662275,
+            "x-gyroscope": 0.0021558306687392103,
+            "y-gyroscope": 0.005334754856542135, 
+            "z-gyroscope": 0.0008158815416882371
+            }
+        }, 
+    {
+        "model": "rides.person",
+        "pk": 3,
+        "fields": {
+            "first_name": 3,
+            "x-acceleration": 0.01455884126120535, 
+            "y-acceleration": 0.01863968495627959,
+            "z-acceleration": -0.005129608640567862, 
+            "x-gyroscope": -0.05264688661094192, 
+            "y-gyroscope": 0.010523205304772949,
+            "z-gyroscope": -0.021005532802150086
+            }
+        }, 
+    {
+        "model": "rides.person",
+        "pk": 4,
+        "fields": {
+            "first_name": 4,
+            "x-acceleration": 0.016038849046736053, 
+            "y-acceleration": 0.027170550699035328, 
+            "z-acceleration": 0.016663027757948094, 
+            "x-gyroscope": -0.5780196795240045,
+            "y-gyroscope": 0.4493854262541528, 
+            "z-gyroscope": 0.3442704821812373
+            }
+        }, 
+    {
+        "model": "rides.person",
+        "pk": 5,
+        "fields": {
+            "first_name": 5,
+            "x-acceleration": 1.1154926230145559, 
+            "y-acceleration": 0.8489259498424437, 
+            "z-acceleration": 0.12756035649247707,
+            "x-gyroscope": -1.9282006634442106,
+            "y-gyroscope": -1.1825966902586422, 
+            "z-gyroscope": 0.028859795580858424
+            }
+        },
+
+    {
+        "model": "rides.person",
+        "pk": 6,
+        "fields": {
+              "first_name": 6,
+                "x-acceleration": 1.4567406863791328,
+                "y-acceleration": 0.5034123917981501,
+                "z-acceleration": 0.014011835590485603,
+                "x-gyroscope": -0.24369033587705946,
+                "y-gyroscope": -0.15437070650739534,
+                "z-gyroscope": -0.1454956671546754}}, 
+    {
+        "model": "rides.person",
+        "pk": 7,
+        "fields": {
+              "first_name": 7,
+                "x-acceleration": 1.4567406863791328,
+                "y-acceleration": 0.5034123917981501,
+                "z-acceleration": 0.014011835590485603,
+                "x-gyroscope": -0.24369033587705946,
+                "y-gyroscope": -0.15437070650739534,
+                "z-gyroscope": -0.1454956671546754}}, 
+    {
+        "model": "rides.person",
+        "pk": 8,
+        "fields": {
+            "first_name": 8,
+            "x-acceleration": 0.06473594392679873, 
+            "y-acceleration": 0.01925270583360426, 
+            "z-acceleration": -0.008655214021282812, 
+            "x-gyroscope": 0.008578907046316853, 
+            "y-gyroscope": 0.01185148241839582, 
+            "z-gyroscope": -0.028011057851385444
+            }
+        }, 
+    {
+        "model": "rides.person",
+        "pk": 9,
+        "fields": {
+            "first_name": 9, 
+            "x-acceleration": 0.016038849046736053, 
+            "y-acceleration": 0.027170550699035328, 
+            "z-acceleration": 0.016663027757948094, 
+            "x-gyroscope": -0.5780196795240045, 
+            "y-gyroscope": 0.4493854262541528, 
+            "z-gyroscope": 0.3442704821812373
+            }
+        },
+    {
+        "model": "rides.person",
+        "pk": 10, 
+        "fields": {
+            "first_name": 10, 
+            "x-acceleration": 0.016038849046736053, 
+            "y-acceleration": 0.027170550699035328, 
+            "z-acceleration": 0.016663027757948094, 
+            "x-gyroscope": -0.5780196795240045, 
+            "y-gyroscope": 0.4493854262541528, 
+            "z-gyroscope": 0.3442704821812373
+            }
+        }, 
+    {
+        "model": "rides.person",
+        "pk": 11, 
+        "fields": {
+            "first_name": 11, 
+            "x-acceleration": 0.005816261821646031, 
+            "y-acceleration": -0.00472032078882543, 
+            "z-acceleration": 0.05620129721436074, 
+            "x-gyroscope": -0.7755221460720645, 
+            "y-gyroscope": 0.26155312157925065, 
+            "z-gyroscope": 0.8462816704022622
+            }
+        }, 
+    {
+        "model": "rides.person",
+        "pk": 12, 
+        "fields": {
+            "first_name": 12, 
+            "x-acceleration": 0.005816261821646031, 
+            "y-acceleration": -0.00472032078882543, 
+            "z-acceleration": 0.05620129721436074, 
+            "x-gyroscope": -0.7755221460720645, 
+            "y-gyroscope": 0.26155312157925065, 
+            "z-gyroscope": 0.8462816704022622
+            }
+        }, 
+    {
+        "model": "rides.person",
+         "pk": 13, 
+         "fields": {
+            "first_name": 13, 
+            "x-acceleration": 0.005816261821646031, 
+            "y-acceleration": -0.00472032078882543, 
+            "z-acceleration": 0.05620129721436074, 
+            "x-gyroscope": -0.7755221460720645, 
+            "y-gyroscope": 0.26155312157925065, 
+            "z-gyroscope": 0.8462816704022622
+            }
+        }, 
+    {
+        "model": "rides.person",
+         "pk": 14, 
+         "fields": {
+            "first_name": 14, 
+            "x-acceleration": 1.1154926230145559, 
+            "y-acceleration": 0.8489259498424437, 
+            "z-acceleration": 0.12756035649247707, 
+            "x-gyroscope": -1.9282006634442106, 
+            "y-gyroscope": -1.1825966902586422, 
+            "z-gyroscope": 0.028859795580858424
+            }
+        }, 
+    {
+        "model": "rides.person",
+         "pk": 15, 
+         "fields": {
+            "first_name": 15, 
+            "x-acceleration": 1.4567406863791328, 
+            "y-acceleration": 0.5034123917981501, 
+            "z-acceleration": 0.014011835590485603, 
+            "x-gyroscope": -0.24369033587705946, 
+            "y-gyroscope": -0.15437070650739534, 
+            "z-gyroscope": -0.1454956671546754
+            }
+        }, 
+    {
+        "model": "rides.person",
+         "pk": 16, 
+         "fields": {
+            "first_name": 16, 
+            "x-acceleration": 0.06473594392679873, 
+            "y-acceleration": 0.01925270583360426, 
+            "z-acceleration": -0.008655214021282812, 
+            "x-gyroscope": 0.008578907046316853, 
+            "y-gyroscope": 0.01185148241839582, 
+            "z-gyroscope": -0.028011057851385444
+            }
+        }, 
+    {
+        "model": "rides.person",
+         "pk": 17
+         , "fields": {"first_name": 17, "x-acceleration": 0.06473594392679873, "y-acceleration": 0.01925270583360426, "z-acceleration": -0.008655214021282812, "x-gyroscope": 0.008578907046316853, "y-gyroscope": 0.01185148241839582, "z-gyroscope": -0.028011057851385444}}, 
+    {
+        "model": "rides.person",
+         "pk": 18
+         , "fields": {"first_name": 18, "x-acceleration": 1.0551892511684808, "y-acceleration": 0.19012885561633494, "z-acceleration": 0.12223161972818836, "x-gyroscope": -0.310128928641338, "y-gyroscope": 0.3931654787000509, "z-gyroscope": -0.35257659220309445}}, 
+    {
+        "model": "rides.person",
+         "pk": 19
+         , "fields": {"first_name": 19, "x-acceleration": 0.8850676292594852, "y-acceleration": 0.20704857643333174, "z-acceleration": -0.010864463519425162, "x-gyroscope": -0.15751918254979705, "y-gyroscope": -0.10033762905911933, "z-gyroscope": -0.13426197529383635}}, 
+    {
+        "model": "rides.person",
+         "pk": 20
+         , "fields": {"first_name": 20, "x-acceleration": 0.005816261821646031, "y-acceleration": -0.00472032078882543, "z-acceleration": 0.05620129721436074, "x-gyroscope": -0.7755221460720645, "y-gyroscope": 0.26155312157925065, "z-gyroscope": 0.8462816704022622}}, 
+    {
+        "model": "rides.person",
+         "pk": 21
+         , "fields": {"first_name": 21, "x-acceleration": 0.002396554756119163, "y-acceleration": 0.00210362755590015, "z-acceleration": 0.004717766845186945, "x-gyroscope": 0.0002770385563673761, "y-gyroscope": -0.000602793145967838, "z-gyroscope": 0.0009294295699401278}}, 
+    {
+        "model": "rides.person",
+         "pk": 22
+         , "fields": {"first_name": 22, "x-acceleration": 0.002991963369386822, "y-acceleration": -0.0007831350052156928, "z-acceleration": 0.005142797608781793, "x-gyroscope": -0.008745841958297302, "y-gyroscope": 0.010701470373344072, "z-gyroscope": -0.018980104586248072}}, 
+    {
+        "model": "rides.person",
+         "pk": 23
+         , "fields": {"first_name": 23, "x-acceleration": 0.024244378986855716, "y-acceleration": 0.007808726001440583, "z-acceleration": 0.0019846692652415675, "x-gyroscope": -0.011043876598602065, "y-gyroscope": 0.011039809111485279, "z-gyroscope": 0.012809663655806844}}, 
+    {
+        "model": "rides.person",
+         "pk": 24
+         , "fields": {"first_name": 24, "x-acceleration": 0.0010453975354986532, "y-acceleration": 0.0024888805661882674, "z-acceleration": 0.003536860363824027, "x-gyroscope": -0.0009577618258938725, "y-gyroscope": -0.0007777222437517984, "z-gyroscope": 0.002371858635154782}}, 
+    {
+        "model": "rides.person",
+         "pk": 25
+         , "fields": {"first_name": 25, "x-acceleration": -0.0012636028470531587, "y-acceleration": 0.005186812531563544, "z-acceleration": 0.0015246791224325857, "x-gyroscope": -0.0002504175363649284, "y-gyroscope": -0.0013980743580407674, "z-gyroscope": -0.0009627930936403573}}, 
+    {
+        "model": "rides.person",
+         "pk": 26
+         , "fields": {"first_name": 26, "x-acceleration": 0.0003918215100254331, "y-acceleration": 0.0009748950904729415, "z-acceleration": 0.003967659205806499, "x-gyroscope": -0.0034845099696528396, "y-gyroscope": 0.0023674311197115754, "z-gyroscope": 0.0021942954896901224}}, 
+    {
+        "model": "rides.person",
+         "pk": 27
+         , "fields": {"first_name": 27, "x-acceleration": 0.0032535350124080534, "y-acceleration": 0.008510501008894937, "z-acceleration": 0.006500385793917246, "x-gyroscope": 0.002358863990865115, "y-gyroscope": -0.008166599861639883, "z-gyroscope": -0.02114690878354926}},
+    {
+        "model": "rides.person",
+         "pk": 28
+         , "fields": {"first_name": 28, "x-acceleration": 0.0001797928346385216, "y-acceleration": 0.004226867220867639, "z-acceleration": 0.0019778791515306497, "x-gyroscope": 0.005346585422401027, "y-gyroscope": 0.0029121823614227703, "z-gyroscope": -0.0031686645561254108}}, 
+    {
+        "model": "rides.person",
+         "pk": 29
+         , "fields": {"first_name": 29, "x-acceleration": -0.00288923780243515, "y-acceleration": 0.003788736668002072, "z-acceleration": 0.001622021198272705, "x-gyroscope": 0.0012668166063250716, "y-gyroscope": -1.8089291489848635e-05, "z-gyroscope": 0.00020558247314517996}},
+    {
+        "model": "rides.person",
+         "pk": 30
+         , "fields": {"first_name": 30, "x-acceleration": 0.1075355026105485, "y-acceleration": 0.021660952966319078, "z-acceleration": 0.04049919281275042, "x-gyroscope": -0.04674594657314585, "y-gyroscope": 0.1393566379396507, "z-gyroscope": 0.019088559383843795}}, 
+    {
+        "model": "rides.person",
+         "pk": 31
+         , "fields": {"first_name": 31, "x-acceleration": 0.5724114165155629, "y-acceleration": 0.21135559559168918, "z-acceleration": -0.019712207622577402, "x-gyroscope": -0.6891648377697773, "y-gyroscope": 0.018093424074459297, "z-gyroscope": 0.009348038038778103}}, 
+    {
+        "model": "rides.person",
+         "pk": 32
+         , "fields": {"first_name": 32, "x-acceleration": 0.5724114165155629, "y-acceleration": 0.21135559559168918, "z-acceleration": -0.019712207622577402, "x-gyroscope": -0.6891648377697773, "y-gyroscope": 0.018093424074459297, "z-gyroscope": 0.009348038038778103}}, 
+    {
+        "model": "rides.person",
+         "pk": 33
+         , "fields": {"first_name": 33, "x-acceleration": 0.45158982634206773, "y-acceleration": 0.19268863912275597, "z-acceleration": -0.06104110299021737, "x-gyroscope": -0.4143591872734399, "y-gyroscope": -0.17277755146325127, "z-gyroscope": 0.06841079112035586}}, 
+    {
+        "model": "rides.person",
+         "pk": 34
+         , "fields": {"first_name": 34, "x-acceleration": 0.45158982634206773, "y-acceleration": 0.19268863912275597, "z-acceleration": -0.06104110299021737, "x-gyroscope": -0.4143591872734399, "y-gyroscope": -0.17277755146325127, "z-gyroscope": 0.06841079112035586}}, 
+    {
+        "model": "rides.person",
+         "pk": 35
+         , "fields": {"first_name": 35, "x-acceleration": 0.023969583231149963, "y-acceleration": 0.020625146155376545, "z-acceleration": 0.042490030088757916, "x-gyroscope": -0.06969492244433469, "y-gyroscope": -0.006089289117520815, "z-gyroscope": -0.027258772331600387}}, 
+    {
+        "model": "rides.person",
+         "pk": 36
+         , "fields": {"first_name": 36, "x-acceleration": 0.023969583231149963, "y-acceleration": 0.020625146155376545, "z-acceleration": 0.042490030088757916, "x-gyroscope": -0.06969492244433469, "y-gyroscope": -0.006089289117520815, "z-gyroscope": -0.027258772331600387}}, 
+    {
+        "model": "rides.person",
+         "pk": 37
+         , "fields": {"first_name": 37, "x-acceleration": 0.0064562174418752085, "y-acceleration": 0.009042929749495773, "z-acceleration": 0.034840339828846656, "x-gyroscope": -0.05063476543889045, "y-gyroscope": 0.018852365104413394, "z-gyroscope": -0.0038323023311871416}}, 
+    {
+        "model": "rides.person",
+         "pk": 38
+         , "fields": {"first_name": 38, "x-acceleration": 0.2954887691683782, "y-acceleration": -0.10907196477923338, "z-acceleration": 0.2131794191115906, "x-gyroscope": -0.05643059671802226, "y-gyroscope": -0.01205737538753502, "z-gyroscope": -0.18090562284574843}}, 
+
+    {"model": "rides.person", "pk": 39, "fields": {"first_name": 39, "x-acceleration": 0.058394571206069085, "y-acceleration": 0.027464206995265854, "z-acceleration": 0.0361621178083816, "x-gyroscope": 0.005363140162622894, "y-gyroscope": 0.03489894738975609, "z-gyroscope": 0.0049523366780097906}}, 
+
+    {"model": "rides.person", "pk": 40, "fields": {"first_name": 40, "x-acceleration": 0.030337871897643347, "y-acceleration": 0.038477429980644566, "z-acceleration": 0.09703196119052201, "x-gyroscope": -0.018832769383600418, "y-gyroscope": 0.041623395111043, "z-gyroscope": -0.019350597897622113}}, 
+
+    {"model": "rides.person", "pk": 41, "fields": {"first_name": 41, "x-acceleration": 0.08515399533831182, "y-acceleration": -0.01077001311441327, "z-acceleration": 0.04324135520410809, "x-gyroscope": 0.12885567419342062, "y-gyroscope": 0.00040964054581769683, "z-gyroscope": -0.12968220911449874}}, 
+
+    {"model": "rides.person", "pk": 42, "fields": {"first_name": 42, "x-acceleration": 0.13919986731029815, "y-acceleration": 0.03034635344805001, "z-acceleration": -0.00901006895105949, "x-gyroscope": 0.18499364790970352, "y-gyroscope": -0.10295967279982474, "z-gyroscope": -0.08031641612060868}}, 
+
+    {"model": "rides.person", "pk": 43, "fields": {"first_name": 43, "x-acceleration": 0.5629577849596559, "y-acceleration": 0.21958886705699468, "z-acceleration": 0.06169874401943338, "x-gyroscope": -0.19017134559464702, "y-gyroscope": 0.31432699294220057, "z-gyroscope": 0.4838870657408129}}, 
+
+    {"model": "rides.person", "pk": 44, "fields": {"first_name": 44, "x-acceleration": 1.32133881317031, "y-acceleration": 0.539585279193857, "z-acceleration": 0.1971796254813671, "x-gyroscope": -2.1855267318800062, "y-gyroscope": -0.41731360085849317, "z-gyroscope": -0.14206624017006927}}, 
+
+    {"model": "rides.person", "pk": 45, "fields": {"first_name": 45, "x-acceleration": 2.4417043976245387, "y-acceleration": 1.1898942731897677, "z-acceleration": 0.4334721032301745, "x-gyroscope": -3.610092254854333, "y-gyroscope": -1.3968006692090702, "z-gyroscope": -0.27630887947353205}}, 
+
+    {"model": "rides.person", "pk": 46, "fields": {"first_name": 46, "x-acceleration": 1.1154926230145559, "y-acceleration": 0.8489259498424437, "z-acceleration": 0.12756035649247707, "x-gyroscope": -1.9282006634442106, "y-gyroscope": -1.1825966902586422, "z-gyroscope": 0.028859795580858424}}, 
+
+    {"model": "rides.person", "pk": 47, "fields": {"first_name": 47, "x-acceleration": 0.8850676292594852, "y-acceleration": 0.20704857643333174, "z-acceleration": -0.010864463519425162, "x-gyroscope": -0.15751918254979705, "y-gyroscope": -0.10033762905911933, "z-gyroscope": -0.13426197529383635}}, 
+    {"model": "rides.person", "pk": 48, "fields": {"first_name": 48, "x-acceleration": 0.43474650412873034, "y-acceleration": 0.09586980005545963, "z-acceleration": 0.14425822312312742, "x-gyroscope": 0.01478706245438286, "y-gyroscope": 0.1384196889305848, "z-gyroscope": 0.15189498271124677}},
+
+    {"model": "rides.person", "pk": 49, "fields": {"first_name": 49, "x-acceleration": 0.43474650412873034, "y-acceleration": 0.09586980005545963, "z-acceleration": 0.14425822312312742, "x-gyroscope": 0.01478706245438286, "y-gyroscope": 0.1384196889305848, "z-gyroscope": 0.15189498271124677}}, 
+
+    {"model": "rides.person", "pk": 50, "fields": {"first_name": 50, "x-acceleration": 0.7053418391405214, "y-acceleration": 0.19873616011873368, "z-acceleration": -0.04570318765938282, "x-gyroscope": -0.10948747244821261, "y-gyroscope": -0.06972259169774911, "z-gyroscope": 0.08227042762712845}}, 
+
+    {"model": "rides.person", "pk": 51, "fields": {"first_name": 51, "x-acceleration": 0.7053418391405214, "y-acceleration": 0.19873616011873368, "z-acceleration": -0.04570318765938282, "x-gyroscope": -0.10948747244821261, "y-gyroscope": -0.06972259169774911, "z-gyroscope": 0.08227042762712845}}, 
+
+    {"model": "rides.person", "pk": 52, "fields": {"first_name": 52, "x-acceleration": 0.525075910335647, "y-acceleration": 0.1383428145007741, "z-acceleration": -0.05040523579043727, "x-gyroscope": -0.09052817204756843, "y-gyroscope": -0.20756322400118674, "z-gyroscope": -0.12136027845103414}}, 
+    {"model": "rides.person", "pk": 53, "fields": {"first_name": 53, "x-acceleration": 0.22833728014431412, "y-acceleration": 0.025717403418835133, "z-acceleration": 0.08537626857358602, "x-gyroscope": -0.11653710067715316, "y-gyroscope": 0.15326375840306883, "z-gyroscope": -0.06814764592496138}}, 
+    {"model": "rides.person", "pk": 54, "fields": {"first_name": 54, "x-acceleration": 0.08334360268567839, "y-acceleration": -0.0005344182108679126, "z-acceleration": 0.02594722244978672, "x-gyroscope": -0.04835163886741465, "y-gyroscope": 0.08861283425196645, "z-gyroscope": -0.07830684290320102}}, 
+    {"model": "rides.person", "pk": 55, "fields": {"first_name": 55, "x-acceleration": 0.04278397864451812, "y-acceleration": 0.018525269259848903, "z-acceleration": 0.02894109960284925, "x-gyroscope": -0.185295197177423, "y-gyroscope": -0.02127927778559106, "z-gyroscope": 0.002352862660397565}}, 
+    {"model": "rides.person", "pk": 56, "fields": {"first_name": 56, "x-acceleration": 0.0071584976149061995, "y-acceleration": 0.0028260644981938023, "z-acceleration": 0.00971194411477735, "x-gyroscope": 0.012513316539792164, "y-gyroscope": 0.0092645373558926, "z-gyroscope": 0.008511165672492596}}, 
+    {"model": "rides.person", "pk": 57, "fields": {"first_name": 57, "x-acceleration": 0.7811283132554062, "y-acceleration": 0.290727928581257, "z-acceleration": -0.05921691574396626, "x-gyroscope": -0.8789979904036849, "y-gyroscope": 0.09713765855127525, "z-gyroscope": 0.060305693915429254}}, {"model": "rides.person", "pk": 58, "fields": {"first_name": 58, "x-acceleration": 1.1348846175233203, "y-acceleration": 0.3847861168143009, "z-acceleration": -0.07132987772384959, "x-gyroscope": -1.9298045599605183, "y-gyroscope": 0.26399828071766085, "z-gyroscope": -0.1995514534759305}}, {"model": "rides.person", "pk": 59, "fields": {"first_name": 59, "x-acceleration": 1.1477092050640814, "y-acceleration": 0.3675657768523501, "z-acceleration": -0.05977671772001251, "x-gyroscope": -2.1728688156118077, "y-gyroscope": 0.42574509020353996, "z-gyroscope": -0.17497950793702094}}, {"model": "rides.person", "pk": 60, "fields": {"first_name": 60, "x-acceleration": 0.8292502021645346, "y-acceleration": 0.32792207027815523, "z-acceleration": -0.030261508419869406, "x-gyroscope": -1.2134339254852684, "y-gyroscope": -0.110976916703005, "z-gyroscope": 0.37285214544334}}, {"model": "rides.person", "pk": 61, "fields": {"first_name": 61, "x-acceleration": 0.8292502021645346, "y-acceleration": 0.32792207027815523, "z-acceleration": -0.030261508419869406, "x-gyroscope": -1.2134339254852684, "y-gyroscope": -0.110976916703005, "z-gyroscope": 0.37285214544334}}, {"model": "rides.person", "pk": 62, "fields": {"first_name": 62, "x-acceleration": 0.8292502021645346, "y-acceleration": 0.32792207027815523, "z-acceleration": -0.030261508419869406, "x-gyroscope": -1.2134339254852684, "y-gyroscope": -0.110976916703005, "z-gyroscope": 0.37285214544334}}, {"model": "rides.person", "pk": 63, "fields": {"first_name": 63, "x-acceleration": 1.0968284157333115, "y-acceleration": 0.18202616939140903, "z-acceleration": -0.045140143104137914, "x-gyroscope": -1.828243413122611, "y-gyroscope": -0.05036541762761772, "z-gyroscope": -0.3375567386380487}}, {"model": "rides.person", "pk": 64, "fields": {"first_name": 64, "x-acceleration": 1.1056807529205277, "y-acceleration": 0.5215818508209721, "z-acceleration": 0.1912232491037538, "x-gyroscope": 0.8573088669239153, "y-gyroscope": 0.7861466614340221, "z-gyroscope": -0.5592808367103158}}, {"model": "rides.person", "pk": 65, "fields": {"first_name": 65, "x-acceleration": 1.1056807529205277, "y-acceleration": 0.5215818508209721, "z-acceleration": 0.1912232491037538, "x-gyroscope": 0.8573088669239153, "y-gyroscope": 0.7861466614340221, "z-gyroscope": -0.5592808367103158}}, {"model": "rides.person", "pk": 66, "fields": {"first_name": 66, "x-acceleration": 0.4356154089505153, "y-acceleration": 0.21558967242798496, "z-acceleration": -0.10482540351473876, "x-gyroscope": 0.11822662277605324, "y-gyroscope": 0.6328324188298035, "z-gyroscope": -0.874898154790318}}, {"model": "rides.person", "pk": 67, "fields": {"first_name": 67, "x-acceleration": 2.6538119094095687, "y-acceleration": 0.44036033311749206, "z-acceleration": 0.6923771974269082, "x-gyroscope": -2.954484274719554, "y-gyroscope": -0.0691657343708143, "z-gyroscope": -0.7257144090920167}}, {"model": "rides.person", "pk": 68, "fields": {"first_name": 68, "x-acceleration": 0.7590183322575381, "y-acceleration": 0.11284383014063624, "z-acceleration": -0.0799467620417914, "x-gyroscope": -1.1285741033850867, "y-gyroscope": -0.07022999143227934, "z-gyroscope": -0.1403697315858239}}, {"model": "rides.person", "pk": 69, "fields": {"first_name": 69, "x-acceleration": 0.7660027500072165, "y-acceleration": 0.1157754904590547, "z-acceleration": -0.09784127708853167, "x-gyroscope": -1.180932691507247, "y-gyroscope": -0.1695829714684035, "z-gyroscope": -0.17294910760897705}}, {"model": "rides.person", "pk": 70, "fields": {"first_name": 70, "x-acceleration": 0.7895924042691203, "y-acceleration": 0.11182417065781705, "z-acceleration": -0.09367276803426006, "x-gyroscope": -1.1844936967359665, "y-gyroscope": -0.09493501338642091, "z-gyroscope": -0.15036551196607487}}, {"model": "rides.person", "pk": 71, "fields": {"first_name": 71, "x-acceleration": 0.7674996656910574, "y-acceleration": 0.12433664844700958, "z-acceleration": -0.08947379436624354, "x-gyroscope": -1.3093576012474262, "y-gyroscope": -0.12255310329357985, "z-gyroscope": -0.2188994455665531}}, {"model": "rides.person", "pk": 72, "fields": {"first_name": 72, "x-acceleration": 0.7553517641883124, "y-acceleration": 0.12020082403412637, "z-acceleration": -0.08318608483847449, "x-gyroscope": -1.2969866964674335, "y-gyroscope": -0.10838464389267542, "z-gyroscope": -0.22097124790670075}}, {"model": "rides.person", "pk": 73, "fields": {"first_name": 73, "x-acceleration": 0.7510784577539957, "y-acceleration": 0.37983572528204496, "z-acceleration": 0.201430754493922, "x-gyroscope": 0.8660010930990992, "y-gyroscope": 0.4992199075276799, "z-gyroscope": -0.35436645213952833}}, {"model": "rides.person", "pk": 74, "fields": {"first_name": 74, "x-acceleration": 0.6042159327163416, "y-acceleration": 0.3721682923068019, "z-acceleration": 0.09829152524361716, "x-gyroscope": 0.8237891329794108, "y-gyroscope": 0.4370200875485042, "z-gyroscope": -0.17023183357532082}}, {"model": "rides.person", "pk": 75, "fields": {"first_name": 75, "x-acceleration": 0.7364251247739393, "y-acceleration": 0.37155791451739956, "z-acceleration": 0.12204279246759096, "x-gyroscope": 0.6537913138935169, "y-gyroscope": 0.4904790141351835, "z-gyroscope": -0.23421536503764384}}, {"model": "rides.person", "pk": 76, "fields": {"first_name": 76, "x-acceleration": 0.6791540144148337, "y-acceleration": 0.37759117814986143, "z-acceleration": 0.1306211947496323, "x-gyroscope": 0.7537098363610943, "y-gyroscope": 0.4516437234895249, "z-gyroscope": -0.15236026873195763}}, {"model": "rides.person", "pk": 77, "fields": {"first_name": 77, "x-acceleration": 0.3811947281318563, "y-acceleration": 0.20100025691584245, "z-acceleration": -0.08146408760064357, "x-gyroscope": 0.04167925190070767, "y-gyroscope": 0.39212916389222374, "z-gyroscope": -0.7180835575582023}}, {"model": "rides.person", "pk": 78, "fields": {"first_name": 78, "x-acceleration": 0.4311933250420779, "y-acceleration": 0.21042921195607217, "z-acceleration": -0.10537664266668076, "x-gyroscope": 0.07842066200099063, "y-gyroscope": 0.4274086973087041, "z-gyroscope": -0.7335579485883285}}, {"model": "rides.person", "pk": 79, "fields": {"first_name": 79, "x-acceleration": 0.4816317898810017, "y-acceleration": 0.25963851026303447, "z-acceleration": -0.16200817129510545, "x-gyroscope": 0.1758074558968056, "y-gyroscope": 0.5050898042770852, "z-gyroscope": -0.8752179560279452}}, {"model": "rides.person", "pk": 80, "fields": {"first_name": 80, "x-acceleration": 0.46508823087850404, "y-acceleration": 0.23301354072315533, "z-acceleration": -0.12449301364101611, "x-gyroscope": 0.07129867833458615, "y-gyroscope": 0.4717752540173261, "z-gyroscope": -0.8378651158657839}}, {"model": "rides.person", "pk": 81, "fields": {"first_name": 81, "x-acceleration": 0.3847273408826578, "y-acceleration": 0.21347043466243976, "z-acceleration": -0.06544715035203341, "x-gyroscope": -0.021479815794608365, "y-gyroscope": 0.3655455490080548, "z-gyroscope": -0.7155895020681666}}, {"model": "rides.person", "pk": 82, "fields": {"first_name": 82, "x-acceleration": 0.6702810010024612, "y-acceleration": 0.2756685709170554, "z-acceleration": -0.024410115112827736, "x-gyroscope": -0.8651298829563963, "y-gyroscope": -0.06751115748359422, "z-gyroscope": 0.0323004612947097}}, {"model": "rides.person", "pk": 83, "fields": {"first_name": 83, "x-acceleration": 0.7386086881206361, "y-acceleration": 0.2890845512297171, "z-acceleration": -0.006161309867659304, "x-gyroscope": -1.106380892197136, "y-gyroscope": 0.042309137208094115, "z-gyroscope": -0.0011602080782062794}}, {"model": "rides.person", "pk": 84, "fields": {"first_name": 84, "x-acceleration": 0.7361139941609958, "y-acceleration": 0.2658611717885908, "z-acceleration": -0.024355561855961296, "x-gyroscope": -1.0044241058580605, "y-gyroscope": 0.10156296953915016, "z-gyroscope": -0.03413721930961508}}, {"model": "rides.person", "pk": 85, "fields": {"first_name": 85, "x-acceleration": 0.9436231828886542, "y-acceleration": 0.2873860081784512, "z-acceleration": 0.009800028950098804, "x-gyroscope": -1.8612740548649382, "y-gyroscope": 0.5089388634838953, "z-gyroscope": -0.09932911480750707}}, {"model": "rides.person", "pk": 86, "fields": {"first_name": 86, "x-acceleration": 0.8713452375491688, "y-acceleration": 0.2785793449853707, "z-acceleration": 0.029154157360731545, "x-gyroscope": -1.8663021284628396, "y-gyroscope": 0.3650107918717035, "z-gyroscope": -0.11932347011036025}}, {"model": "rides.person", "pk": 87, "fields": {"first_name": 87, "x-acceleration": 0.006244731220786515, "y-acceleration": 0.03112558361581143, "z-acceleration": 0.027757912118207006, "x-gyroscope": 0.04655057086530552, "y-gyroscope": 0.013689043682397288, "z-gyroscope": -0.006977395581985441}}, {"model": "rides.person", "pk": 88, "fields": {"first_name": 88, "x-acceleration": 0.0055014220230719625, "y-acceleration": 0.029433758098851234, "z-acceleration": 0.011543707845951705, "x-gyroscope": 0.09254292927565984, "y-gyroscope": 0.07832282389075879, "z-gyroscope": -0.06253177563892677}}, {"model": "rides.person", "pk": 89, "fields": {"first_name": 89, "x-acceleration": 0.010389502761775957, "y-acceleration": 0.030378188442657977, "z-acceleration": 0.01912975715870476, "x-gyroscope": 0.10538440577028428, "y-gyroscope": 0.08626968089806135, "z-gyroscope": -0.07150629547616358}}, {"model": "rides.person", "pk": 90, "fields": {"first_name": 90, "x-acceleration": -0.0032111427363227395, "y-acceleration": 0.030907731062787422, "z-acceleration": 0.03020300719887018, "x-gyroscope": 0.08864335347555906, "y-gyroscope": 0.03247511031626559, "z-gyroscope": -0.03331206264857696}}, {"model": "rides.person", "pk": 91, "fields": {"first_name": 91, "x-acceleration": 0.004512292200644665, "y-acceleration": 0.05323324169854031, "z-acceleration": -0.011751704756718348, "x-gyroscope": -0.06352922924136853, "y-gyroscope": 0.002421586556798395, "z-gyroscope": -0.023099258873022763}}, {"model": "rides.person", "pk": 92, "fields": {"first_name": 92, "x-acceleration": 0.004512292200644665, "y-acceleration": 0.05323324169854031, "z-acceleration": -0.011751704756718348, "x-gyroscope": -0.06352922924136853, "y-gyroscope": 0.002421586556798395, "z-gyroscope": -0.023099258873022763}}, {"model": "rides.person", "pk": 93, "fields": {"first_name": 93, "x-acceleration": -0.003742097646737581, "y-acceleration": 0.06840081645942786, "z-acceleration": 0.005233826974187704, "x-gyroscope": -0.003455190358491724, "y-gyroscope": 0.023932736475458915, "z-gyroscope": -0.004330162831020596}}, {"model": "rides.person", "pk": 94, "fields": {"first_name": 94, "x-acceleration": 0.0019061547452036071, "y-acceleration": 0.03676094982444363, "z-acceleration": -0.007508795939878944, "x-gyroscope": 0.0019408466328647645, "y-gyroscope": -0.0032284175064962576, "z-gyroscope": 0.007320648410412319}}, {"model": "rides.person", "pk": 95, "fields": {"first_name": 95, "x-acceleration": -0.030278652453904643, "y-acceleration": 0.015128847586593646, "z-acceleration": 0.014298584145658157, "x-gyroscope": -0.02619548069751438, "y-gyroscope": 0.0033988655658493587, "z-gyroscope": 0.01269763412001981}}, {"model": "rides.person", "pk": 96, "fields": {"first_name": 96, "x-acceleration": 0.014138531940167441, "y-acceleration": 0.08820311351734049, "z-acceleration": 0.0674094174320207, "x-gyroscope": -0.3158465550820384, "y-gyroscope": 0.047084404393647084, "z-gyroscope": 0.003414823781110018}}, {"model": "rides.person", "pk": 97, "fields": {"first_name": 97, "x-acceleration": 0.020949466561843804, "y-acceleration": 0.09497236597625648, "z-acceleration": 0.07447152089546709, "x-gyroscope": -0.25770730552037574, "y-gyroscope": 0.13650402463753433, "z-gyroscope": 0.047336127338520086}}, {"model": "rides.person", "pk": 98, "fields": {"first_name": 98, "x-acceleration": 0.025451588943765004, "y-acceleration": 0.08053827012286467, "z-acceleration": 0.07172157534343356, "x-gyroscope": -0.2874887714168632, "y-gyroscope": 0.1072833080087131, "z-gyroscope": 0.04912821181693717}}, {"model": "rides.person", "pk": 99, "fields": {"first_name": 99, "x-acceleration": 0.025649059895556995, "y-acceleration": 0.0021493817568859494, "z-acceleration": 0.0005089006081502266, "x-gyroscope": -0.00451069734341425, "y-gyroscope": 0.00010735930509046934, "z-gyroscope": 0.010173913454586316}}]

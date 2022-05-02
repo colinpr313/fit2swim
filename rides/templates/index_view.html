@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="main">
+  <table>
+      {% for person in people %}
+      <tr class="{% cycle 'odd' 'even' %}">
+          <td>{{ person.first_name }}</td>
+          <td>{{ person.X_acceleration }}</td>
+          <td>{{ person.Y_acceleration }}</td>
+          <td>{{ person.Z_acceleration }}</td>
+          <td>{{ person.X_gyroscope }}</td>
+          <td>{{ person.Y_gyroscope }}</td>
+          <td>{{ person.Z_gyroscope }}</td>
+
+      </tr>
+      {% endfor %}
+  </table>
+</div>
+
+
+<!-- <form action="{% url 'rides:index' %}" method="get">
+    {{ form }}
+    <input type="submit" value="Submit" onclick="return checkForm(this.parentNode);">
+</form> -->
+
+<table>
+    <tr>
+        <th>name</th>
+        <th>X-acceleration</th>
+        <th>Y-acceleration</th>
+        <th>Z-acceleration</th>
+        <th>X-gyroscope</th>
+        <th>Y-gyroscope</th>
+        <th>Z-gyroscope</th>
+        <th>Confidence</th>
+    </tr>
+    <tr>
+        <td>Iman</td>
+        <td>-1.916e-02</td>
+        <td>8.627e-03</td>
+        <td>-2.923e-04</td>
+        <td>-3.917e-02</td>
+        <td>-3.839e-04</td>
+        <td>7.905e-03</td>
+        <td>9.905e-01</td>
+    </tr>
+</table>
+
+
+
+
+{% endblock %}

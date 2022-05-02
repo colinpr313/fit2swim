@@ -1,0 +1,60 @@
+{% load static %}
+
+<html>
+<head>
+<script src="{% static 'main.js' %}"></script>
+<link rel="stylesheet" href="{% static 'main.css' %}"/>
+</head>
+
+<title> Welcome to Fit2Swim </title>
+  <body bgcolor="#52b5e3" text="black">
+    <center>
+      <h1p style="font-family:Impact"><font size="+5">Fit2Swim</p></h1>
+
+
+
+      <style>
+        @keyframes spinning {
+          from { transform: rotate(0deg) }
+          to { transform: rotate(360deg) }
+        }
+        .spinhov:hover {
+          animation-name: spinning;
+          animation-duration: 1s;
+          animation-iteration-count: 1;
+          /* linear | ease | ease-in | ease-out | ease-in-out */
+          animation-timing-function: ease-in-out;
+        }
+        </style>
+
+
+        <img src="{% static 'fit2swim_logo.jpg' %}" alt="Image of logo" width="400" height="300" class="spinhov"/>
+
+
+      <br>
+      <a href="{% url 'rides:create' %}" style="font-size: large;"> Click here to register to find a swimming partner.</a>
+      <br>
+
+      {% block content %}
+      {% endblock %}
+
+    </center>
+  </body>
+      <center>
+      <img src="{% static 'Arrows.png' %}" alt="Image of logo" width="200" height="100">
+      </center>
+        <br>
+        <br>
+      <div id="demobox" >
+        <div style="background-color: rgb(204, 208, 255) ; padding: 10px; border: 10px solid blue;">
+          <h8> <p style="font-family:Impact"><font size="+3">Fit2Swim is changing how people find workout partners with the hope of creating a healthier population via swimming - one of the lowest impact forms of cardio. The platform finds individuals the ideal partners based on their skill level which is measured by accelerometers and gyroscopes during their normal swim.   </p></h1>
+      </div>
+      <br>
+      <div id="demobox">
+        <div style="background-color: rgb(204, 208, 255) ; padding: 10px; border: 10px solid blue;">
+          <h8> <p style="font-family:Impact"><font size="+3">By using Fit2Swim’s partner finding service you will be able to get in shape with motivation and support from someone who is just like you!
+ </p></h1>
+      </div>
+    </center>
+  </body>
+</html>

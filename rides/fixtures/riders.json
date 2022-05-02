@@ -1,0 +1,29 @@
+[
+  {
+    "model": "rides.person",
+    "pk": 1,
+    "fields": {
+      "first_name": "Iman",
+      "x-acceleration": -1.91689740e-02,
+      "y-acceleration": 8.62786445e-03,
+      "z-acceleration": -2.92312015e-04,
+      "x-gyroscope": -3.91714721e-02,
+      "y-gyroscope": -3.83958855e-04,
+      "z-gyroscope": 7.90514114e-03
+    }
+  },
+  {
+    "model": "rides.person",
+    "pk": 2,
+    "fields": {
+      "first_name": "Storm",
+      "x-acceleration": 2.02565923e-01,
+      "y-acceleration": 5.09872499e-02,
+      "z-acceleration": -1.61140687e-03,
+      "x-gyroscope": 1.61912739e-01,
+      "y-gyroscope": 6.69887348e-01,
+      "z-gyroscope": 3.99822677e-01
+    }
+  } 
+
+]

@@ -1,0 +1,29 @@
+h1 {
+  color: black;
+}
+img {
+  transition-duration: 1s;
+}
+
+img:hover {
+  transform: scaleX(-1);
+  transition-duration: 3s;
+}
+
+tr {
+
+}
+
+.odd {
+  background-color: #777777
+}
+
+.odd td a p.class1 {
+  outline : 1px solid #777777;
+}
+
+#demobox {
+  background-color: darkblue ;
+  padding: 10px ;
+  border: 1px solid blue ;
+}

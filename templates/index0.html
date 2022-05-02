@@ -1,0 +1,62 @@
+{% load static %}
+
+<html>
+<head>
+<script src="{% static 'main.js' %}"></script>
+<link rel="stylesheet" href="{% static 'main.css' %}"/>
+</head>
+
+<title> Fit 2 Swim </title>
+  <body bgcolor="#52b5e3" text="black">
+    <center>
+      <h1p style="font-family:Impact"><font size="+5">Hitch A Ryde</p></h1>
+
+
+
+      <style>
+        @keyframes spinning {
+          from { transform: rotate(0deg) }
+          to { transform: rotate(360deg) }
+        }
+        .spinhov:hover {
+          animation-name: spinning;
+          animation-duration: 1s;
+          animation-iteration-count: 1;
+          /* linear | ease | ease-in | ease-out | ease-in-out */
+          animation-timing-function: ease-in-out;
+        }
+        </style>
+
+
+        <img src="{% static '1 pass.png' %}" alt="Image of logo" width="400" height="300" class="spinhov"/>
+
+
+      <br>
+      <div class="button" width="100" height="200"></div>
+      <button onclick= "window.location.href= 'http://127.0.0.1:8000/rides'">
+        Sign-up Here
+      </button>
+
+      {% block content %}
+      {% endblock %}
+
+    </center>
+  </body>
+      <center>
+      <img src="{% static 'Arrows.png' %}" alt="Image of logo" width="200" height="100">
+      </center>
+        <br>
+        <br>
+      <div id="demobox">
+        <div style="background-color: darkblue ; padding: 10px; border: 10px solid blue;">
+          <h8> <p style="font-family:Impact"><font size="+3">Hitch A Ryde has potential to revolutionize the transportation industry and in the process greatly decrease CO2 and CO emissions which are destroying the environment. The idea is simple: allow users to casually share rides with people that are traveling between the same places at about the same time and share enough in common such that they are sufficiently comfortable. </p></h1>
+      </div>
+      <br>
+      <div id="demobox">
+        <div style="background-color: darkblue ; padding: 10px; border: 10px solid blue;">
+          <h8> <p style="font-family:Impact"><font size="+3">By using this platform you will be able to see the differences between riding alone and using Hitch A Ryde in terms of: time, money, and environmental impact. Generating money by having users split the gas bill and subsequently taking a small share of this money would allow the app to function without initial cost or advertising. Join Hitch a Ryde to save money and ride with great company!
+ </p></h1>
+      </div>
+    </center>
+  </body>
+</html>
